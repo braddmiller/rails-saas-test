@@ -1,29 +1,7 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A first experiment with Rails following https://www.udemy.com/create-a-multi-tenant-saas-application-with-ruby-on-rails
 
-Things you may want to cover:
+This is a multi-tenant SaaS web app designed in Ruby using the Rails framework and the PostgreSQL database.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-*Quick test
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+This is the initial commit and this document will expand with fuctionality and deployment instructions as the project progresses.
